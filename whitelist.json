@@ -1,0 +1,11 @@
+{
+  "work_minutes": 25,
+  "break_minutes": 5,
+  "whitelist": [
+    "code.exe",
+    "devenv.exe",
+    "msedge.exe",
+    "notepad.exe",
+    "Thorium.exe"
+  ]
+}
